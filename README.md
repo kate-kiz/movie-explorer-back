@@ -9,5 +9,5 @@
 
 IP 158.160.77.113
 
-Backend http://api.katekiz.nomoreparties.co/
+Backend https://api.katekiz.nomoreparties.co/
 
