@@ -1,1 +1,1 @@
-# movie-ezplorer-back
+# movie-explorer-back
